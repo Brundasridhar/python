@@ -1,0 +1,5 @@
+#session 4
+programs based on data types
+assigning the values and printing
+operators
+usage of data types
