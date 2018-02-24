@@ -1,0 +1,6 @@
+#session 7
+program using for and range
+break and continue in for loop
+string and password programs
+demonstrating functions
+creating a twitter account and tweeting using python code
