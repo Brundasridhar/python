@@ -1,0 +1,4 @@
+#session 8
+twitter application and tweeting
+fswebcam, capturing a picture and uploading
+changing colour and resolutions of picture
